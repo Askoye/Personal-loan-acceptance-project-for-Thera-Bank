@@ -3,7 +3,7 @@
 ## Description
 Thera Bank's management wants to explore ways of converting its liability customers to personal loan customers. The data used is based on a marketing campaign that the bank ran last year towards sales of the personal loan. The task at hand is to study the factors that will determine whether a customer will accept a personal loan.
 The aim of the project is to predict whether an individual will accept a personal loan given various factors. 
-These insights will assist in giving a detailed analysis of the performance and success factors of personal loans are borrowed money that can be used for large purchases, debt consolidation, emergency expenses and much more and are paid back in monthly installments over the course of typically two to six years.
+These insights will assist in giving a detailed analysis of the performance and success factors of personal loans which are borrowed money that can be used for large purchases, debt consolidation, emergency expenses and much more and are paid back in monthly installments over the course of typically two to six years.
 
 
 ## Experimental Design
