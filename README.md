@@ -23,13 +23,13 @@ The following are the steps that we will take to conduct this project. They are 
 
 ## Setup/Installation Requirements
 * A laptop and good internet connection
-*
+
 ## Known Bugs
-{There are no known bugs. }
+ There are no known bugs. 
 ## Technologies Used
-{Google Colaboratory, Github Account }
+Google Colaboratory, Github Account 
 ## Support and contact details
-{For more information on the project contact the author on [tedsam10@gmail.com] .}
+For more information on the project contact the author on [tedsam10@gmail.com] .
 ### LicenseMIT License
 
 Copyright (c) [2020] [Ted Askoye Samuel] 
