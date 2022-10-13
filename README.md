@@ -1,4 +1,4 @@
-# Personal-loan-acceptance-project-for-Thera-Bank
+# Personal loan acceptance Project for Thera Bank
 
 ## Description
 Thera Bank's management wants to explore ways of converting its liability customers to personal loan customers. The data used is based on a marketing campaign that the bank ran last year towards sales of the personal loan. The task at hand is to study the factors that will determine whether a customer will accept a personal loan.
